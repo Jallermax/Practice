@@ -1,3 +1,4 @@
+REM run Jaller.bat with patameters: jaller.bat <path/comp/open> <"class_name"> <optional params to stream into class> or jaller.bat <"class_name">
 @ECHO OFF
 
 IF %1==path (
